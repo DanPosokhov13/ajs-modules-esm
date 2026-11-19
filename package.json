@@ -1,0 +1,13 @@
+{
+  "name": "ajs-modules-esm",
+  "version": "1.0.0",
+  "description": "Netology AJS homework: native ES modules",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Daniil Posokhov",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
